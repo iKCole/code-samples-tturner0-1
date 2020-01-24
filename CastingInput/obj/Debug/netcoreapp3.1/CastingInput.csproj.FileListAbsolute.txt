@@ -1,0 +1,11 @@
+c:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.exe
+C:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.deps.json
+C:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.runtimeconfig.dev.json
+c:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.dll
+c:\Users\tjtics\Documents\Code Samples\CastingInput\bin\Debug\netcoreapp3.1\CastingInput.pdb
+c:\Users\tjtics\Documents\Code Samples\CastingInput\obj\Debug\netcoreapp3.1\CastingInput.csprojAssemblyReference.cache
+c:\Users\tjtics\Documents\Code Samples\CastingInput\obj\Debug\netcoreapp3.1\CastingInput.AssemblyInfoInputs.cache
+c:\Users\tjtics\Documents\Code Samples\CastingInput\obj\Debug\netcoreapp3.1\CastingInput.AssemblyInfo.cs
+c:\Users\tjtics\Documents\Code Samples\CastingInput\obj\Debug\netcoreapp3.1\CastingInput.dll
+c:\Users\tjtics\Documents\Code Samples\CastingInput\obj\Debug\netcoreapp3.1\CastingInput.pdb
