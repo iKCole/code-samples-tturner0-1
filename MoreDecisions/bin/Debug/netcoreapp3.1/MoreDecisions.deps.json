@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MoreDecisions/1.0.0": {
+        "runtime": {
+          "MoreDecisions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoreDecisions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

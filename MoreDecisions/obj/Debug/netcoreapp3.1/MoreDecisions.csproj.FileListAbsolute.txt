@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.exe
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.deps.json
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.dll
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.pdb
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.dll
+C:\Users\tjtics\Documents\Code Samples\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.pdb
