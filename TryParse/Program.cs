@@ -22,14 +22,14 @@ namespace TryParse
             if(fail)
             {
                  Console.WriteLine("Number = " + inputNum);
-                Console.WriteLine($"Number = {inputNum}");
-                Console.WriteLine($"Number = {inputNum:C}");
-                 Console.WriteLine($"Number = {inputNum, 15:C}");
+                Console.WriteLine($"Number = {inputNum}"); // string interpolation and must have $"{variableName}" for it to work
+                Console.WriteLine($"Number = {inputNum:C}"); // string interpolation with currency format
+                 Console.WriteLine($"Number = {inputNum, 15:C}"); // string interpolation with justified currency format
                 Console.WriteLine("Number = {inputNum}");
-                 Console.WriteLine("Number = {0} {1}", inputNum, test1Score);
+                 Console.WriteLine("Number = {0} {1}", inputNum, test1Score); // this are called arguments as which can be considered as placeholders
                   Console.WriteLine($"Number = {inputNum:N3}");
                 Console.WriteLine("Number = {inputNum}");
-                 Console.WriteLine("Number = {0,-15:N3} {1}", inputNum, test1Score);
+                 Console.WriteLine("Number = {0,-15:N3} {1}", inputNum, test1Score); // arguments with justified string formatting
                  Console.WriteLine("Number = {0,15:N3}", inputNum);
                 Console.WriteLine("Number = {0:N3}", inputNum);
                  Console.WriteLine("Number = \t{0:C}", inputNum);
