@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.exe
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.deps.json
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.dll
+C:\Users\tjtics\Documents\Code Samples\Ternary\bin\Debug\netcoreapp3.1\Ternary.pdb
+C:\Users\tjtics\Documents\Code Samples\Ternary\obj\Debug\netcoreapp3.1\Ternary.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\Ternary\obj\Debug\netcoreapp3.1\Ternary.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\Ternary\obj\Debug\netcoreapp3.1\Ternary.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\Ternary\obj\Debug\netcoreapp3.1\Ternary.dll
+C:\Users\tjtics\Documents\Code Samples\Ternary\obj\Debug\netcoreapp3.1\Ternary.pdb
