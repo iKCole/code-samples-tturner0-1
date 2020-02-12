@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.exe
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.deps.json
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.dll
+C:\Users\tjtics\Documents\Code Samples\QAReview\bin\Debug\netcoreapp3.1\QAReview.pdb
+C:\Users\tjtics\Documents\Code Samples\QAReview\obj\Debug\netcoreapp3.1\QAReview.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\QAReview\obj\Debug\netcoreapp3.1\QAReview.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\QAReview\obj\Debug\netcoreapp3.1\QAReview.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\QAReview\obj\Debug\netcoreapp3.1\QAReview.dll
+C:\Users\tjtics\Documents\Code Samples\QAReview\obj\Debug\netcoreapp3.1\QAReview.pdb
