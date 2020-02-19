@@ -8,15 +8,15 @@ namespace Arrays
         {
             //const int CLASS_SIZE = 7;
             const string ASHLEY = "Ashley";
-            const string ASHLEY_FAV_POP = "Coke";
+            const string ASHLEY_FAV_POP = "Coke"; // create a const
             const double ASHLEY_FAV_POP_PRICE = 2.80;
             const int MAX_CLASS_SIZE = 15;
             string[] classNameArray2 = new string[0]; // create an empty array of string
             string[] classNameArray = { ASHLEY, "Hysuon", 
                 "Issac", "Asido", "Juliet", "William", "Prof. T ", "Ghost"}; // create and initialize the string array with seven names.
 
-            string[] studentsFavDrinks = new string[MAX_CLASS_SIZE];
-            studentsFavDrinks[0] = ASHLEY_FAV_POP;
+            string[] studentsFavDrinks = new string[MAX_CLASS_SIZE]; // Create an array of 15 elements
+            studentsFavDrinks[0] = ASHLEY_FAV_POP; // assign the const value to the first element
 
             double[] pricesArray = new double[MAX_CLASS_SIZE];
             pricesArray[0] = ASHLEY_FAV_POP_PRICE;
