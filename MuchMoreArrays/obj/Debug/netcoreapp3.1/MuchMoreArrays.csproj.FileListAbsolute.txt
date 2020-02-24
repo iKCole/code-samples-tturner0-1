@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.exe
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.deps.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.dll
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\bin\Debug\netcoreapp3.1\MuchMoreArrays.pdb
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\obj\Debug\netcoreapp3.1\MuchMoreArrays.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\obj\Debug\netcoreapp3.1\MuchMoreArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\obj\Debug\netcoreapp3.1\MuchMoreArrays.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\obj\Debug\netcoreapp3.1\MuchMoreArrays.dll
+C:\Users\tjtics\Documents\Code Samples\MuchMoreArrays\obj\Debug\netcoreapp3.1\MuchMoreArrays.pdb
