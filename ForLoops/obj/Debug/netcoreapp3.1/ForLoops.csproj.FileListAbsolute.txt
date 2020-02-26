@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\tjtics\Documents\Code Samples\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\tjtics\Documents\Code Samples\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\tjtics\Documents\Code Samples\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
