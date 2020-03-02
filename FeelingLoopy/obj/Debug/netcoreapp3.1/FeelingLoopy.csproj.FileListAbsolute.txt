@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.exe
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.deps.json
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.dll
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\bin\Debug\netcoreapp3.1\FeelingLoopy.pdb
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\obj\Debug\netcoreapp3.1\FeelingLoopy.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\obj\Debug\netcoreapp3.1\FeelingLoopy.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\obj\Debug\netcoreapp3.1\FeelingLoopy.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\obj\Debug\netcoreapp3.1\FeelingLoopy.dll
+C:\Users\tjtics\Documents\Code Samples\FeelingLoopy\obj\Debug\netcoreapp3.1\FeelingLoopy.pdb
