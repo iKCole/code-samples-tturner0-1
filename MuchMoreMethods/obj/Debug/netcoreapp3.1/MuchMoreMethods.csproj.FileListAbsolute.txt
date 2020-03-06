@@ -1,0 +1,11 @@
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.exe
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.deps.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.runtimeconfig.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.dll
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\bin\Debug\netcoreapp3.1\MuchMoreMethods.pdb
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\obj\Debug\netcoreapp3.1\MuchMoreMethods.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\obj\Debug\netcoreapp3.1\MuchMoreMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\obj\Debug\netcoreapp3.1\MuchMoreMethods.AssemblyInfo.cs
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\obj\Debug\netcoreapp3.1\MuchMoreMethods.dll
+C:\Users\tjtics\Documents\Code Samples\MuchMoreMethods\obj\Debug\netcoreapp3.1\MuchMoreMethods.pdb
