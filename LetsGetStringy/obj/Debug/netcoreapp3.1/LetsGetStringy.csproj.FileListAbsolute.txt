@@ -1,0 +1,13 @@
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.exe
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.deps.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.runtimeconfig.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.dll
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\bin\Debug\netcoreapp3.1\LetsGetStringy.pdb
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.AssemblyInfo.cs
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.dll
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.pdb
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\LetsGetStringy\obj\Debug\netcoreapp3.1\LetsGetStringy.genruntimeconfig.cache
