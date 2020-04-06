@@ -1,0 +1,13 @@
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.exe
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.deps.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.runtimeconfig.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.runtimeconfig.dev.json
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.dll
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\bin\Debug\netcoreapp3.1\BeClassy.pdb
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.csprojAssemblyReference.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.AssemblyInfoInputs.cache
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.AssemblyInfo.cs
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.dll
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.pdb
+C:\Users\tjtics\Documents\NMAD-180\code-samples-tturner0-1\BeClassy\obj\Debug\netcoreapp3.1\BeClassy.genruntimeconfig.cache
